@@ -7,9 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F430DE2D203734200014AA92 /* IconSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = F430DE2B2037341F0014AA92 /* IconSet.swift */; };
 		F430DE2E203734200014AA92 /* Icons in Resources */ = {isa = PBXBuildFile; fileRef = F430DE2C2037341F0014AA92 /* Icons */; };
-		F430DE30203734730014AA92 /* Icon.swift in Sources */ = {isa = PBXBuildFile; fileRef = F430DE2F203734720014AA92 /* Icon.swift */; };
 		F430DE32203734E80014AA92 /* ScaryBug.swift in Sources */ = {isa = PBXBuildFile; fileRef = F430DE31203734E80014AA92 /* ScaryBug.swift */; };
 		F430DE342037859A0014AA92 /* ScaryBugs.swift in Sources */ = {isa = PBXBuildFile; fileRef = F430DE332037859A0014AA92 /* ScaryBugs.swift */; };
 		F47691BE20364D390033C4EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F47691BD20364D390033C4EC /* AppDelegate.swift */; };
@@ -21,9 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F430DE2B2037341F0014AA92 /* IconSet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IconSet.swift; sourceTree = "<group>"; };
 		F430DE2C2037341F0014AA92 /* Icons */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Icons; sourceTree = "<group>"; };
-		F430DE2F203734720014AA92 /* Icon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Icon.swift; sourceTree = "<group>"; };
 		F430DE31203734E80014AA92 /* ScaryBug.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaryBug.swift; sourceTree = "<group>"; };
 		F430DE332037859A0014AA92 /* ScaryBugs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaryBugs.swift; sourceTree = "<group>"; };
 		F47691BA20364D380033C4EC /* ScaryBugs.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScaryBugs.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,9 +62,7 @@
 		F47691BC20364D380033C4EC /* ScaryBugs */ = {
 			isa = PBXGroup;
 			children = (
-				F430DE2F203734720014AA92 /* Icon.swift */,
 				F430DE2C2037341F0014AA92 /* Icons */,
-				F430DE2B2037341F0014AA92 /* IconSet.swift */,
 				F47691CF20364DB90033C4EC /* Challenge_Resources */,
 				F47691BD20364D390033C4EC /* AppDelegate.swift */,
 				F47691BF20364D390033C4EC /* ViewController.swift */,
@@ -157,9 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F430DE32203734E80014AA92 /* ScaryBug.swift in Sources */,
-				F430DE2D203734200014AA92 /* IconSet.swift in Sources */,
 				F47691C020364D390033C4EC /* ViewController.swift in Sources */,
-				F430DE30203734730014AA92 /* Icon.swift in Sources */,
 				F47691BE20364D390033C4EC /* AppDelegate.swift in Sources */,
 				F430DE342037859A0014AA92 /* ScaryBugs.swift in Sources */,
 			);

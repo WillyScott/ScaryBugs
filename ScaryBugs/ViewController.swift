@@ -19,8 +19,7 @@ class ViewController: UIViewController {
         //automaticallyAdjustsScrollViewInsets = false
         //is this needed? and how to set?
         //contentInsetAdjustmentBehavior
-        
-        
+     
     }
 
     override func didReceiveMemoryWarning() {
@@ -46,7 +45,6 @@ extension ViewController: UITableViewDataSource {
         return cell
         
     }
-  
     
 }
 
